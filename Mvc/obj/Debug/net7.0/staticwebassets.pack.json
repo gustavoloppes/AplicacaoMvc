@@ -1073,6 +1073,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap5\\scss\\vendor\\_rfs.scss"
     },
     {
+      "Id": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\.NET\\ASP.NET\\Mvc\\Mvc\\wwwroot\\lib\\libman.json",
+      "PackagePath": "staticwebassets\\lib\\libman.json"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

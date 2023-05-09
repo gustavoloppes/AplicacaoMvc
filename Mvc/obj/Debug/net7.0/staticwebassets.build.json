@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h0fiR4hgpFhn1Zk9xp+Nu2gtcWJDR1QR4Q7ZHEcog8o=",
+  "Hash": "P25LVhZEWLrRRGuWyYEcDBpd90sTSdUqTSG79vzfDKM=",
   "Source": "Mvc",
   "BasePath": "_content/Mvc",
   "Mode": "Default",
@@ -4571,6 +4571,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap5\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Identity": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\.NET\\ASP.NET\\Mvc\\Mvc\\wwwroot\\lib\\libman.json",
+      "SourceId": "Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\.NET\\ASP.NET\\Mvc\\Mvc\\wwwroot\\",
+      "BasePath": "_content/Mvc",
+      "RelativePath": "lib/libman.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\libman.json"
     }
   ]
 }

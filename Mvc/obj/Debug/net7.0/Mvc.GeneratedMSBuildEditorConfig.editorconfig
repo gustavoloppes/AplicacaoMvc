@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mvc
 build_property.RootNamespace = Mvc
-build_property.ProjectDir = c:\Users\gusta\OneDrive\Área de Trabalho\.NET\ASP.NET\Mvc\Mvc\
+build_property.ProjectDir = C:\Users\gusta\OneDrive\Área de Trabalho\.NET\ASP.NET\Mvc\Mvc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\gusta\OneDrive\Área de Trabalho\.NET\ASP.NET\Mvc\Mvc
+build_property.MSBuildProjectDirectory = C:\Users\gusta\OneDrive\Área de Trabalho\.NET\ASP.NET\Mvc\Mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Index.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Obrigado.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Obrigado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPYnJpZ2Fkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Responder.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Responder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNwb25kZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Resultado.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/Home/Resultado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHRhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/_ViewImports.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/_ViewStart.cshtml]
+[C:/Users/gusta/OneDrive/Área de Trabalho/.NET/ASP.NET/Mvc/Mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
